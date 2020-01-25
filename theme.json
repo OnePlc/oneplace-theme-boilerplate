@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate",
+  "description": "This is a boilderplate for onePlace Themes. Create your own theme for onePlace.",
+  "version": "1.0.1",
+  "author": "oneplace",
+  "template": {
+    "author": "oneplace"
+  },
+  "keywords": [
+    "boilerplate",
+    "bootstrap",
+    "bootstrap4"
+  ]
+}
